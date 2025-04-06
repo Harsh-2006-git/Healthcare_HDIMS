@@ -1,9 +1,50 @@
-# Hospital-Management-System
-This is basic web application for the hospital management system.
-This project is done by
-<br>
-  1.Rishi Raj.G<br>
-  2.Vikkram Adithya.K<br>
-  3.Rishi Kumar.R<br>
- <br>
-We've developed this Hospital management system as my mini project in my first year of UG to maintain the patient records, manage appointments and various other needs of the hospital. This project made me to learn many new stuffs like SQL, PHP etc.. <a href="https://rishi772001.github.io/Hospital-Management-System/">Click here</a> to view front end for this project.
+Live server Hosting website : https://harsh-2006-git.github.io/Healthcare-HDIMS/
+Healthcare Management System
+
+📌 Overview
+
+The Healthcare Management System is a web-based platform designed to streamline the management of healthcare services. It allows patients to find doctors, book appointments, and access medical records while enabling doctors to manage patient information efficiently.
+
+🚀 Features
+
+🏥 Doctor Listings – View detailed profiles of doctors, including their specialty, experience, ratings, and languages.
+
+📅 Appointment Booking – Schedule appointments with available doctors.
+
+📄 Electronic Medical Records (EMR) – Access and manage patient medical histories.
+
+🔍 Search & Filter – Find doctors by specialty, experience, ratings, or language.
+
+🔐 Secure Authentication – User authentication and role-based access.
+
+📊 Dashboard – Admin panel for managing doctors, patients, and appointments.
+
+🛠️ Tech Stack
+
+Frontend: Html, Tailwind CSS, JS
+
+Backend: Node.js
+
+Database: Mysql
+
+Authentication: JWT
+
+Deployment: Vercel / Heroku
+
+📦 Installation
+
+Register as a doctor or patient to explore functionalities.
+
+🤝 Contributing
+
+Contributions are welcome! Feel free to fork the repo, create a new branch, and submit a PR.
+
+📜 License
+
+This project is licensed under the MIT License.
+
+📬 Contact
+
+For any inquiries, reach out via your-  harmanmode79@gmail.com or open an issue on GitHub.
+
+⭐ If you like this project, please star this repo on GitHub!
